@@ -1,0 +1,16 @@
+# Visual Studio files
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.csproj.user
+
+# Compiled files
+*.dll
+*.pdb
+*.exe
+
+# Resharper
+_ReSharper.*/
+*.ReSharper.*
